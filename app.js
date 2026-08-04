@@ -1,3 +1,4 @@
+const AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE";
 const express = require('express');
 const app = express();
 const port = 3000;
