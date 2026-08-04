@@ -45,8 +45,7 @@ jobs:
         with:
           config: "p/default"
 
-
-docker-security-build:
+  docker-security-build:
     name: Docker Build & Trivy Scan
     runs-on: ubuntu-latest
     needs: security-sast-secrets
