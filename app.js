@@ -1,7 +1,4 @@
-const myPrivateKey = `-----BEGIN RSA PRIVATE KEY-----
-MIIEpQIBAAKCAQEA3Tz2mr7SZiAMfQyuvBjM9Xi
-bFakeKeyForDevSecOpsCourseDoNotUseIt123
------END RSA PRIVATE KEY-----`;
+const myPrivateKey = `razrabotchik ne ochen horoshiy`;
 const express = require('express');
 const app = express();
 const port = 3000;
